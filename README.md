@@ -12,16 +12,16 @@ Here is a table of algorithms, the figure, name of the code in the book, and the
 
 |Fig|Page|Name (in book)|Code|
 | -------- |:--------:| :-----| :----- |
-|2|34|Environment|[IEnvironment](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Agent/IEnvironment.cs)|
-|2.1|35|Agent|[IAgent](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Agent/IAgent.cs)|
-|3|66|Problem|[IProblem](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Problem/IProblem.cs)|
-|3.10|79|Node|[INode](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Search/INode.cs)|
-|4|147|Online search problem|[IOnlineSearchProblem](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Problem/IOnlineSearchProblem.cs)|
-|5.3|166|Adversarial Search|[IAdversarialSearch](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Search/Adversarial/IAdversarialSearch.cs)|
-|6|202|CSP|[ICSP](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Search/CSP/ICSP.cs)|
-|10.9|383|Planning|[IPlanningProblem](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Logic/Planning/IPlanningProblem.cs)|
-|18.5|702|Learner|[ILearner](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AI/Italbytz.Ports.Algorithms.AI/Learning/ILearner.cs)|
-|18.8|710|Cross-Validation|[ICrossValidation](/Italbytz.Adapters.Algorithms.AI/Italbytz.Adapters.Algorithms.AI/Learning/Inductive/ICrossValidation.cs)|
+|2|34|Environment|[IEnvironment](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Agent/IEnvironment.cs)|
+|2.1|35|Agent|[IAgent](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Agent/IAgent.cs)|
+|3|66|Problem|[IProblem](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Problem/IProblem.cs)|
+|3.10|79|Node|[INode](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Search/INode.cs)|
+|4|147|Online search problem|[IOnlineSearchProblem](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Problem/IOnlineSearchProblem.cs)|
+|5.3|166|Adversarial Search|[IAdversarialSearch](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Search/Adversarial/IAdversarialSearch.cs)|
+|6|202|CSP|[ICSP](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Search/CSP/ICSP.cs)|
+|10.9|383|Planning|[IPlanningProblem](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Logic/Planning/IPlanningProblem.cs)|
+|18.5|702|Learner|[ILearner](https://github.com/Italbytz/nuget-ports-algorithms-ai/blob/main/Italbytz.Ports.Algorithms.AIMA/Italbytz.Ports.Algorithms.AIMA/Learning/ILearner.cs)|
+|18.8|710|Cross-Validation|[ICrossValidation](/Italbytz.Adapters.Algorithms.AIMA/Italbytz.Adapters.Algorithms.AIMA/Learning/Inductive/ICrossValidation.cs)|
 
 # Getting Started
 
