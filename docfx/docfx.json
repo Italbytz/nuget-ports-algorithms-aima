@@ -1,0 +1,45 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "src": "../Italbytz.Ports.Algorithms.AIMA",
+          "files": [
+            "Italbytz.Ports.Algorithms.AIMA/*.csproj"
+          ]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.{md,yml}"
+        ],
+        "exclude": [
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "output": "_site",
+    "template": [
+      "default",
+      "modern"
+    ],
+    "globalMetadata": {
+      "_appName": "Italbytz.Ports.Algorithms.AIMA",
+      "_appTitle": "Italbytz.Ports.Algorithms.AIMA",
+      "_enableSearch": true,
+      "pdf": false
+    }
+  }
+}

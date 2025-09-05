@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italbytz.Ports.Algorithms.AIMA", "Italbytz.Ports.Algorithms.AIMA\Italbytz.Ports.Algorithms.AIMA.csproj", "{6225CB11-3885-462F-BDE3-223812F9A589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6225CB11-3885-462F-BDE3-223812F9A589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6225CB11-3885-462F-BDE3-223812F9A589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6225CB11-3885-462F-BDE3-223812F9A589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6225CB11-3885-462F-BDE3-223812F9A589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
